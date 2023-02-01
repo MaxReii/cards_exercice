@@ -1,0 +1,26 @@
+{
+  "name": "cards",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxReii/cards_exercice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxReii/cards_exercice/issues"
+  },
+  "homepage": "https://github.com/MaxReii/cards_exercice#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  },
+  "dependencies": {
+    "lodash-es": "^4.17.21"
+  }
+}
